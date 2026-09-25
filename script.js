@@ -29,4 +29,4 @@ document.writeln(`Pierwiastek z podanej liczby: ${Math.sqrt(a)}</p>`);
 // Zad 14
 document.writeln(`Wynik iloczynu wprowadzonej liczby z liczbą losową z przedziału 0-50: ${Math.round(Math.random() * 50.0) * a}</p>`);
 // Zad 15
-document.writeln(`Wratość absolutna: ${Math.abs(a)}`);
+document.writeln(`Wratość absolutna: ${Math.abs(a)}</p>`);
