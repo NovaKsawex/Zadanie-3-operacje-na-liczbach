@@ -15,9 +15,9 @@ document.writeln(`Wartość dzielenia przez 2: ${a / 2.0}</p>`);
 // Zad 7
 document.writeln(`Wartość reszty dzielenia przez 2: ${a % 2}</p>`);
 // Zad 8
-document.writeln(`Liczba o jeden większa: ${a++}</p>`);
+document.writeln(`Liczba o jeden większa: ${a + 1}</p>`);
 // Zad 9
-document.writeln(`Liczba o jeden mniejsza: ${a--}</p>`);
+document.writeln(`Liczba o jeden mniejsza: ${a - 1}</p>`);
 // Zad 10
 document.writeln(`Dzielenie przez 3, zaokrąglone w dół: ${Math.floor(a / 3.0)}</p>`);
 // Zad 11
