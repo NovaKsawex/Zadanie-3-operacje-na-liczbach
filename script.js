@@ -21,7 +21,7 @@ document.writeln(`Liczba o jeden mniejsza: ${a--}</p>`);
 // Zad 10
 document.writeln(`Dzielenie przez 3, zaokrąglone w dół: ${Math.floor(a / 3.0)}</p>`);
 // Zad 11
-document.writeln(`Dzielenie przez 3, zaokrąglone w górę: ${Math.ceiling(a / 3.0)}</p>`);
+document.writeln(`Dzielenie przez 3, zaokrąglone w górę: ${Math.ceil(a / 3.0)}</p>`);
 // Zad 12
 document.writeln(`Dzielenie przez 3, zaokrąglone do najbliższej całkowitej: ${Math.round(a / 3.0)}</p>`);
 // Zad 13
